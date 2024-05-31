@@ -4,7 +4,7 @@ Hi 👋 My name is Fabricio manoel
 estudante e cursando associação comunitária despertar
 -----------------------------------------------------
 
-sou jovem 16 anos, moro na zona Sul de São Paulo e estou estudando na área da programação
+sou jovem 17 anos, moro na zona Sul de São Paulo e estou estudando na área da programação
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [briciosantista10@gmail.com](mailto:briciosantista10@gmail.com)
